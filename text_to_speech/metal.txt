@@ -1,0 +1,3 @@
+Gold price is 7200 rupees per gram
+silver price is 83000 per kg
+diamond price is 65000 per carot
